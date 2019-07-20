@@ -5,3 +5,10 @@ C:\Users\User\source\repos\Test\Test\obj\Debug\Test.csprojAssemblyReference.cach
 C:\Users\User\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\Test\Test\obj\Debug\Test.dll
 C:\Users\User\source\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\User\source\repos\Stuff.git\Test\Test\bin\Debug\Test.dll.config
+C:\Users\User\source\repos\Stuff.git\Test\Test\bin\Debug\Test.dll
+C:\Users\User\source\repos\Stuff.git\Test\Test\bin\Debug\Test.pdb
+C:\Users\User\source\repos\Stuff.git\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Stuff.git\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Stuff.git\Test\Test\obj\Debug\Test.dll
+C:\Users\User\source\repos\Stuff.git\Test\Test\obj\Debug\Test.pdb
