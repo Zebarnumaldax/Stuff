@@ -1,0 +1,14 @@
+C:\Users\a.pushnin\source\repos\NetScan\NetScan\bin\Debug\NetScan.exe.config
+C:\Users\a.pushnin\source\repos\NetScan\NetScan\bin\Debug\NetScan.exe
+C:\Users\a.pushnin\source\repos\NetScan\NetScan\bin\Debug\NetScan.pdb
+C:\Users\a.pushnin\source\repos\NetScan\NetScan\obj\Debug\NetScan.csprojAssemblyReference.cache
+C:\Users\a.pushnin\source\repos\NetScan\NetScan\obj\Debug\NetScan.csproj.CoreCompileInputs.cache
+C:\Users\a.pushnin\source\repos\NetScan\NetScan\obj\Debug\NetScan.exe
+C:\Users\a.pushnin\source\repos\NetScan\NetScan\obj\Debug\NetScan.pdb
+C:\Users\User\Desktop\Разработки\NetScan\NetScan\bin\Debug\NetScan.exe.config
+C:\Users\User\Desktop\Разработки\NetScan\NetScan\bin\Debug\NetScan.exe
+C:\Users\User\Desktop\Разработки\NetScan\NetScan\bin\Debug\NetScan.pdb
+C:\Users\User\Desktop\Разработки\NetScan\NetScan\obj\Debug\NetScan.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Разработки\NetScan\NetScan\obj\Debug\NetScan.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Разработки\NetScan\NetScan\obj\Debug\NetScan.exe
+C:\Users\User\Desktop\Разработки\NetScan\NetScan\obj\Debug\NetScan.pdb

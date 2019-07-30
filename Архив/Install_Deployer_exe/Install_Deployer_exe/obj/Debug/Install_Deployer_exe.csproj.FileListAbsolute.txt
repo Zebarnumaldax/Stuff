@@ -1,0 +1,16 @@
+c:\users\a.pushnin\documents\visual studio 2015\Projects\Install_Deployer_exe\Install_Deployer_exe\bin\Debug\Install_Deployer_exe.exe
+c:\users\a.pushnin\documents\visual studio 2015\Projects\Install_Deployer_exe\Install_Deployer_exe\bin\Debug\Install_Deployer_exe.pdb
+c:\users\a.pushnin\documents\visual studio 2015\Projects\Install_Deployer_exe\Install_Deployer_exe\bin\Debug\System.Management.Automation.dll
+c:\users\a.pushnin\documents\visual studio 2015\Projects\Install_Deployer_exe\Install_Deployer_exe\obj\Debug\Install_Deployer_exe.exe
+c:\users\a.pushnin\documents\visual studio 2015\Projects\Install_Deployer_exe\Install_Deployer_exe\obj\Debug\Install_Deployer_exe.pdb
+C:\Users\a.pushnin\Documents\Visual Studio 2015\Projects\Install_Deployer_exe\Install_Deployer_exe\obj\Debug\Install_Deployer_exe.csprojAssemblyReference.cache
+C:\Users\a.pushnin\Documents\Visual Studio 2015\Projects\Install_Deployer_exe\Install_Deployer_exe\obj\Debug\Install_Deployer_exe.csproj.CoreCompileInputs.cache
+C:\Users\a.pushnin\Documents\Visual Studio 2015\Projects\Install_Deployer_exe\Install_Deployer_exe\obj\Debug\Install_Deployer_exe.csproj.CopyComplete
+C:\Users\User\Desktop\Разработки\Install_Deployer_exe\Install_Deployer_exe\bin\Debug\Install_Deployer_exe.exe
+C:\Users\User\Desktop\Разработки\Install_Deployer_exe\Install_Deployer_exe\bin\Debug\Install_Deployer_exe.pdb
+C:\Users\User\Desktop\Разработки\Install_Deployer_exe\Install_Deployer_exe\bin\Debug\System.Management.Automation.dll
+C:\Users\User\Desktop\Разработки\Install_Deployer_exe\Install_Deployer_exe\obj\Debug\Install_Deployer_exe.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Разработки\Install_Deployer_exe\Install_Deployer_exe\obj\Debug\Install_Deployer_exe.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Разработки\Install_Deployer_exe\Install_Deployer_exe\obj\Debug\Install_Deployer_exe.csproj.CopyComplete
+C:\Users\User\Desktop\Разработки\Install_Deployer_exe\Install_Deployer_exe\obj\Debug\Install_Deployer_exe.exe
+C:\Users\User\Desktop\Разработки\Install_Deployer_exe\Install_Deployer_exe\obj\Debug\Install_Deployer_exe.pdb

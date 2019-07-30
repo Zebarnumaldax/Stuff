@@ -1,0 +1,34 @@
+Не возможно подключиться: HYPER_V_MAIN.ALUPRO.DOMAIN | 10.29.1.2
+SQL_Client Запущен: fileserver.alupro.domain | 10.29.1.4
+Не возможно подключиться: mail.alupro.domain | 10.29.1.7
+Не возможно подключиться: dc01.alupro.domain | 10.29.1.10
+Не возможно подключиться: dc02.alupro.domain | 10.29.1.11
+SQL_Client Запущен: srv01.alupro.domain | 10.29.1.16
+SQL_Client Запущен: hyper_v.alupro.domain | 10.29.1.17
+Не возможно подключиться: XEROX3220.ALUPRO.DOMAIN | 10.29.1.41
+Не возможно подключиться: NPIE3165D | 10.29.1.39
+Не возможно подключиться: DLINK-DPR1020 | 10.29.1.42
+Не возможно подключиться: CANON14E426 | 10.29.1.40
+Не возможно подключиться: XRX0000AACD8344 | 10.29.1.45
+Не возможно подключиться: CANONE396CF | 10.29.1.81
+Не возможно подключиться: NPIB0AE50 | 10.29.1.89
+Не возможно подключиться: web.alupro.ru | 10.29.1.123
+Не возможно подключиться: KUMZ001 | 10.29.1.131
+Не возможно подключиться: m-kumz | 10.29.1.134
+Не возможно подключиться: SHEKERAA | 10.29.1.133
+Не возможно подключиться: BUH | 10.29.1.135
+SQL_Client Запущен: ADM-AP.ALUPRO.DOMAIN | 10.29.1.172
+Не возможно подключиться: sql2016.alupro.domain | 10.29.1.180
+Не возможно подключиться: Savinova | 10.29.1.201
+SQL_Client Запущен: glazkovala.alupro.domain | 10.29.1.126
+SQL_Client Запущен: deminaea.alupro.domain | 10.29.1.127
+Не возможно подключиться: sorokam.alupro.domain | 10.29.1.221
+Не возможно подключиться: npi50c89a.alupro.domain | 10.29.1.247
+SQL_Client Запущен: semchenkods.alupro.domain | 10.29.1.171
+SQL_Client Запущен: ivanoviv.alupro.domain | 10.29.1.207
+Не возможно подключиться: ZharovAF.ALUPRO.DOMAIN | 10.29.1.205
+SQL_Client Запущен: tsukrovsl.alupro.domain | 10.29.1.208
+SQL_Client Запущен: sharapova.alupro.domain | 10.29.1.209
+SQL_Client Запущен: bashtanei.alupro.domain | 10.29.1.213
+SQL_Client Запущен: aleksandrovra.alupro.domain | 10.29.1.220
+Не возможно подключиться: prezent.alupro.domain | 10.29.1.243

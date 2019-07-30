@@ -1,0 +1,11 @@
+c:\users\a.pushnin\documents\visual studio 2015\Projects\ServiceUpdater\ServiceUpdater\bin\Debug\ServiceUpdater.exe
+c:\users\a.pushnin\documents\visual studio 2015\Projects\ServiceUpdater\ServiceUpdater\bin\Debug\ServiceUpdater.pdb
+c:\users\a.pushnin\documents\visual studio 2015\Projects\ServiceUpdater\ServiceUpdater\obj\Debug\ServiceUpdater.csprojResolveAssemblyReference.cache
+c:\users\a.pushnin\documents\visual studio 2015\Projects\ServiceUpdater\ServiceUpdater\obj\Debug\ServiceUpdater.exe
+c:\users\a.pushnin\documents\visual studio 2015\Projects\ServiceUpdater\ServiceUpdater\obj\Debug\ServiceUpdater.pdb
+C:\Users\User\Desktop\Разработки\ServiceUpdater\ServiceUpdater\bin\Debug\ServiceUpdater.exe
+C:\Users\User\Desktop\Разработки\ServiceUpdater\ServiceUpdater\bin\Debug\ServiceUpdater.pdb
+C:\Users\User\Desktop\Разработки\ServiceUpdater\ServiceUpdater\obj\Debug\ServiceUpdater.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Разработки\ServiceUpdater\ServiceUpdater\obj\Debug\ServiceUpdater.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Разработки\ServiceUpdater\ServiceUpdater\obj\Debug\ServiceUpdater.exe
+C:\Users\User\Desktop\Разработки\ServiceUpdater\ServiceUpdater\obj\Debug\ServiceUpdater.pdb

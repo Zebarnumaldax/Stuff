@@ -1,0 +1,14 @@
+c:\users\a.pushnin\documents\visual studio 2015\Projects\Get_AD_users\Get_AD_users\bin\Debug\Get_AD_users.exe
+c:\users\a.pushnin\documents\visual studio 2015\Projects\Get_AD_users\Get_AD_users\bin\Debug\Get_AD_users.pdb
+c:\users\a.pushnin\documents\visual studio 2015\Projects\Get_AD_users\Get_AD_users\bin\Debug\System.Management.Automation.dll
+c:\users\a.pushnin\documents\visual studio 2015\Projects\Get_AD_users\Get_AD_users\obj\Debug\Get_AD_users.csprojResolveAssemblyReference.cache
+c:\users\a.pushnin\documents\visual studio 2015\Projects\Get_AD_users\Get_AD_users\obj\Debug\Get_AD_users.exe
+c:\users\a.pushnin\documents\visual studio 2015\Projects\Get_AD_users\Get_AD_users\obj\Debug\Get_AD_users.pdb
+C:\Users\User\Desktop\Разработки\Get_AD_users\Get_AD_users\bin\Debug\Get_AD_users.exe
+C:\Users\User\Desktop\Разработки\Get_AD_users\Get_AD_users\bin\Debug\Get_AD_users.pdb
+C:\Users\User\Desktop\Разработки\Get_AD_users\Get_AD_users\bin\Debug\System.Management.Automation.dll
+C:\Users\User\Desktop\Разработки\Get_AD_users\Get_AD_users\obj\Debug\Get_AD_users.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Разработки\Get_AD_users\Get_AD_users\obj\Debug\Get_AD_users.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Разработки\Get_AD_users\Get_AD_users\obj\Debug\Get_AD_users.csproj.CopyComplete
+C:\Users\User\Desktop\Разработки\Get_AD_users\Get_AD_users\obj\Debug\Get_AD_users.exe
+C:\Users\User\Desktop\Разработки\Get_AD_users\Get_AD_users\obj\Debug\Get_AD_users.pdb

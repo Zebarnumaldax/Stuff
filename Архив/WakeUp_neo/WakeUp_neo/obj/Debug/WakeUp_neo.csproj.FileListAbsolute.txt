@@ -1,0 +1,17 @@
+c:\users\a.pushnin\documents\visual studio 2015\Projects\WakeUp_neo\WakeUp_neo\bin\Debug\WakeUp_neo.exe
+c:\users\a.pushnin\documents\visual studio 2015\Projects\WakeUp_neo\WakeUp_neo\bin\Debug\WakeUp_neo.pdb
+c:\users\a.pushnin\documents\visual studio 2015\Projects\WakeUp_neo\WakeUp_neo\obj\Debug\WakeUp_neo.csprojResolveAssemblyReference.cache
+c:\users\a.pushnin\documents\visual studio 2015\Projects\WakeUp_neo\WakeUp_neo\obj\Debug\WakeUp_neo.Form1.resources
+c:\users\a.pushnin\documents\visual studio 2015\Projects\WakeUp_neo\WakeUp_neo\obj\Debug\WakeUp_neo.Properties.Resources.resources
+c:\users\a.pushnin\documents\visual studio 2015\Projects\WakeUp_neo\WakeUp_neo\obj\Debug\WakeUp_neo.csproj.GenerateResource.Cache
+c:\users\a.pushnin\documents\visual studio 2015\Projects\WakeUp_neo\WakeUp_neo\obj\Debug\WakeUp_neo.exe
+c:\users\a.pushnin\documents\visual studio 2015\Projects\WakeUp_neo\WakeUp_neo\obj\Debug\WakeUp_neo.pdb
+C:\Users\User\Desktop\Разработки\WakeUp_neo\WakeUp_neo\bin\Debug\WakeUp_neo.exe
+C:\Users\User\Desktop\Разработки\WakeUp_neo\WakeUp_neo\bin\Debug\WakeUp_neo.pdb
+C:\Users\User\Desktop\Разработки\WakeUp_neo\WakeUp_neo\obj\Debug\WakeUp_neo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Разработки\WakeUp_neo\WakeUp_neo\obj\Debug\WakeUp_neo.Form1.resources
+C:\Users\User\Desktop\Разработки\WakeUp_neo\WakeUp_neo\obj\Debug\WakeUp_neo.Properties.Resources.resources
+C:\Users\User\Desktop\Разработки\WakeUp_neo\WakeUp_neo\obj\Debug\WakeUp_neo.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Разработки\WakeUp_neo\WakeUp_neo\obj\Debug\WakeUp_neo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Разработки\WakeUp_neo\WakeUp_neo\obj\Debug\WakeUp_neo.exe
+C:\Users\User\Desktop\Разработки\WakeUp_neo\WakeUp_neo\obj\Debug\WakeUp_neo.pdb

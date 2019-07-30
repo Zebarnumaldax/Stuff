@@ -1,0 +1,12 @@
+C:\Users\a.pushnin\source\repos\CSV to SQL\CSV to SQL\bin\Debug\CSV to SQL.exe
+C:\Users\a.pushnin\source\repos\CSV to SQL\CSV to SQL\bin\Debug\CSV to SQL.pdb
+C:\Users\a.pushnin\source\repos\CSV to SQL\CSV to SQL\obj\Debug\CSV to SQL.csprojAssemblyReference.cache
+C:\Users\a.pushnin\source\repos\CSV to SQL\CSV to SQL\obj\Debug\CSV to SQL.csproj.CoreCompileInputs.cache
+C:\Users\a.pushnin\source\repos\CSV to SQL\CSV to SQL\obj\Debug\CSV to SQL.exe
+C:\Users\a.pushnin\source\repos\CSV to SQL\CSV to SQL\obj\Debug\CSV to SQL.pdb
+C:\Users\User\Desktop\Разработки\CSV to SQL\CSV to SQL\bin\Debug\CSV to SQL.exe
+C:\Users\User\Desktop\Разработки\CSV to SQL\CSV to SQL\bin\Debug\CSV to SQL.pdb
+C:\Users\User\Desktop\Разработки\CSV to SQL\CSV to SQL\obj\Debug\CSV to SQL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Разработки\CSV to SQL\CSV to SQL\obj\Debug\CSV to SQL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Разработки\CSV to SQL\CSV to SQL\obj\Debug\CSV to SQL.exe
+C:\Users\User\Desktop\Разработки\CSV to SQL\CSV to SQL\obj\Debug\CSV to SQL.pdb

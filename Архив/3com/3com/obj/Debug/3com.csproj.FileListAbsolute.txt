@@ -1,0 +1,12 @@
+C:\Users\a.pushnin\source\repos\3com\3com\bin\Debug\3com.exe
+C:\Users\a.pushnin\source\repos\3com\3com\bin\Debug\3com.pdb
+C:\Users\a.pushnin\source\repos\3com\3com\obj\Debug\3com.csprojAssemblyReference.cache
+C:\Users\a.pushnin\source\repos\3com\3com\obj\Debug\3com.csproj.CoreCompileInputs.cache
+C:\Users\a.pushnin\source\repos\3com\3com\obj\Debug\3com.exe
+C:\Users\a.pushnin\source\repos\3com\3com\obj\Debug\3com.pdb
+C:\Users\User\Desktop\Разработки\3com\3com\bin\Debug\3com.exe
+C:\Users\User\Desktop\Разработки\3com\3com\bin\Debug\3com.pdb
+C:\Users\User\Desktop\Разработки\3com\3com\obj\Debug\3com.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Разработки\3com\3com\obj\Debug\3com.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Разработки\3com\3com\obj\Debug\3com.exe
+C:\Users\User\Desktop\Разработки\3com\3com\obj\Debug\3com.pdb

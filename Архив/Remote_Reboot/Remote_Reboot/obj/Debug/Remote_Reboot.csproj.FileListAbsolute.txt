@@ -1,0 +1,15 @@
+c:\users\a.pushnin\documents\visual studio 2015\Projects\Remote_Reboot\Remote_Reboot\obj\Debug\Remote_Reboot.csprojResolveAssemblyReference.cache
+c:\users\a.pushnin\documents\visual studio 2015\Projects\Remote_Reboot\Remote_Reboot\obj\Debug\Remote_Reboot.Properties.Resources.resources
+c:\users\a.pushnin\documents\visual studio 2015\Projects\Remote_Reboot\Remote_Reboot\obj\Debug\Remote_Reboot.csproj.GenerateResource.Cache
+c:\users\a.pushnin\documents\visual studio 2015\Projects\Remote_Reboot\Remote_Reboot\bin\Debug\Remote_Reboot.exe
+c:\users\a.pushnin\documents\visual studio 2015\Projects\Remote_Reboot\Remote_Reboot\bin\Debug\Remote_Reboot.pdb
+c:\users\a.pushnin\documents\visual studio 2015\Projects\Remote_Reboot\Remote_Reboot\obj\Debug\Remote_Reboot.exe
+c:\users\a.pushnin\documents\visual studio 2015\Projects\Remote_Reboot\Remote_Reboot\obj\Debug\Remote_Reboot.pdb
+C:\Users\User\Desktop\Разработки\Remote_Reboot\Remote_Reboot\bin\Debug\Remote_Reboot.exe
+C:\Users\User\Desktop\Разработки\Remote_Reboot\Remote_Reboot\bin\Debug\Remote_Reboot.pdb
+C:\Users\User\Desktop\Разработки\Remote_Reboot\Remote_Reboot\obj\Debug\Remote_Reboot.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Разработки\Remote_Reboot\Remote_Reboot\obj\Debug\Remote_Reboot.Properties.Resources.resources
+C:\Users\User\Desktop\Разработки\Remote_Reboot\Remote_Reboot\obj\Debug\Remote_Reboot.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Разработки\Remote_Reboot\Remote_Reboot\obj\Debug\Remote_Reboot.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Разработки\Remote_Reboot\Remote_Reboot\obj\Debug\Remote_Reboot.exe
+C:\Users\User\Desktop\Разработки\Remote_Reboot\Remote_Reboot\obj\Debug\Remote_Reboot.pdb

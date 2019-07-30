@@ -1,0 +1,14 @@
+c:\users\a.pushnin\source\repos\SQL_database_backup\SQL_database_backup\bin\Debug\SQL_database_backup.exe.config
+c:\users\a.pushnin\source\repos\SQL_database_backup\SQL_database_backup\bin\Debug\SQL_database_backup.exe
+c:\users\a.pushnin\source\repos\SQL_database_backup\SQL_database_backup\bin\Debug\SQL_database_backup.pdb
+c:\users\a.pushnin\source\repos\SQL_database_backup\SQL_database_backup\obj\Debug\SQL_database_backup.csprojAssemblyReference.cache
+c:\users\a.pushnin\source\repos\SQL_database_backup\SQL_database_backup\obj\Debug\SQL_database_backup.csproj.CoreCompileInputs.cache
+c:\users\a.pushnin\source\repos\SQL_database_backup\SQL_database_backup\obj\Debug\SQL_database_backup.exe
+c:\users\a.pushnin\source\repos\SQL_database_backup\SQL_database_backup\obj\Debug\SQL_database_backup.pdb
+C:\Users\User\Desktop\Разработки\SQL_database_backup\SQL_database_backup\bin\Debug\SQL_database_backup.exe.config
+C:\Users\User\Desktop\Разработки\SQL_database_backup\SQL_database_backup\bin\Debug\SQL_database_backup.exe
+C:\Users\User\Desktop\Разработки\SQL_database_backup\SQL_database_backup\bin\Debug\SQL_database_backup.pdb
+C:\Users\User\Desktop\Разработки\SQL_database_backup\SQL_database_backup\obj\Debug\SQL_database_backup.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Разработки\SQL_database_backup\SQL_database_backup\obj\Debug\SQL_database_backup.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Разработки\SQL_database_backup\SQL_database_backup\obj\Debug\SQL_database_backup.exe
+C:\Users\User\Desktop\Разработки\SQL_database_backup\SQL_database_backup\obj\Debug\SQL_database_backup.pdb
